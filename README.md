@@ -14,7 +14,5 @@
 
 ### Languages
 
-<img src="https://user-images.githubusercontent.com/81867375/201831350-6c7c4138-9afd-44fe-be16-2a718c8b2106.png" width="30px"/>
-<img src="https://user-images.githubusercontent.com/81867375/201832184-2847a4bd-d65c-4bfe-9ff8-1cd94f1e1473.png" width="30px"/>
-<img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="30px"/>
+<img src="https://user-images.githubusercontent.com/81867375/201831350-6c7c4138-9afd-44fe-be16-2a718c8b2106.png" width="30px"/><img src="https://user-images.githubusercontent.com/81867375/201832184-2847a4bd-d65c-4bfe-9ff8-1cd94f1e1473.png" width="30px"/><img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="30px"/>
 
