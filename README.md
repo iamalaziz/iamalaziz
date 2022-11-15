@@ -1,6 +1,23 @@
 # Abdulaziz Mashrabov
 > 👨🏻‍💻 Web Front-end Developer
 
+<p align="center">
+  <h3 align="center">Abdulaziz Mashrabov</h3>
+</p>
+<p align="center">
+    <a href="/">About Me</a>
+    ·
+    <a href="mailto:mashrabovabdulaziz2463@gmail.com">Email</a>
+    ·
+    <a href="https://linkedin.com/in/iamalaziz">LinkedIn</a>
+    ·
+    <a href="https://instagram.com/iamalaziz">Twitter</a>
+</p>
+<p align="center">
+  <h4 align="center">Computer Engineer from Namangan, Uzbekistan</h4>
+</p>
+
+
 ### Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=firebase,react,js,python,bootstrap,sass,tailwind,ts&theme=light)
