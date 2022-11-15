@@ -11,3 +11,7 @@
 
 ### Portfolio
 > *Pending...*
+
+### Languages
+
+![image](https://user-images.githubusercontent.com/81867375/201831350-6c7c4138-9afd-44fe-be16-2a718c8b2106.png)
