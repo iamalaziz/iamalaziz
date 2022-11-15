@@ -1,8 +1,11 @@
-# Abdulaziz Mashrabov
-> 👨🏻‍💻 Web Front-end Developer
+
+
+> <div align="center">
+  <p align="right">Web Front-end Developer</p>
+</div>
 
 <p align="center">
-  <h3 align="center">Abdulaziz Mashrabov</h3>
+  <h1 align="center">Abdulaziz Mashrabov</h1>
 </p>
 <p align="center">
     <a href="/">About Me</a>
@@ -17,6 +20,7 @@
   <h4 align="center">Computer Engineer from Namangan, Uzbekistan</h4>
 </p>
 
+---
 
 ### Tech Stack
 
