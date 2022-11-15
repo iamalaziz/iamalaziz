@@ -1,7 +1,7 @@
 
 
-> <div align="center">
-  <p align="right">Web Front-end Developer</p>
+<div align="center">
+  <blockquote align="right">Web Front-end Developer</blockquote>
 </div>
 
 <p align="center">
