@@ -8,7 +8,7 @@
   <h1 align="center">Abdulaziz Mashrabov</h1>
 </p>
 <p align="center">
-    <a href="/">About Me</a>
+    <a href="http://iamalaziz.github.io/portfolio">Portfolio</a>
     ·
     <a href="mailto:mashrabovabdulaziz2463@gmail.com">Email</a>
     ·
