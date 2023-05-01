@@ -8,7 +8,7 @@
   <h1 align="center">Abdulaziz Mashrabov</h1>
 </p>
 <p align="center">
-    <a href="http://iamalaziz.github.io/portfolio" target="_blank">Portfolio</a>
+    <a href="https://iamalaziz.vercel.app/" target="_blank">Portfolio</a>
     ·
     <a href="mailto:mashrabovabdulaziz2463@gmail.com">Email</a>
     ·
@@ -30,7 +30,7 @@
 
 [![Stats](https://github-readme-streak-stats.herokuapp.com?user=iamalaziz&theme=Javascript&hide_border=true&border_radius=10&background=F7F7F7F9&ring=2192FF&fire=FBDF07&sideNums=2192FF&currStreakNum=FBDF07)](https://git.io/streak-stats)
 
-### Portfolio - http://iamalaziz.github.io/portfolio
+### Portfolio - [Go to checkout](https://iamalaziz.vercel.app/)
 
 ### Languages
 
