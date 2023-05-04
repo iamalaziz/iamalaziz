@@ -1,4 +1,5 @@
 
+<img width="100%" alt="Portfolio banner" src="https://user-images.githubusercontent.com/81867375/235978710-a9476ad7-d15f-44e7-8c71-e94ead3b4f7c.png" align="left" style="margin-bottom: 16px">
 
 <div align="center">
   <blockquote align="right">Open  For New Opportunities!</blockquote>
@@ -19,8 +20,6 @@
 <p align="center">
   <h4 align="center">I am an enthusiast currently hacking on some of my projects.</h4>
 </p>
-
-<img width="100%" alt="Portfolio banner" src="https://user-images.githubusercontent.com/81867375/235978710-a9476ad7-d15f-44e7-8c71-e94ead3b4f7c.png" align="left" style="margin-bottom: 16px">
 
 </br>
 </br>
