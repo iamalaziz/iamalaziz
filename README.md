@@ -1,6 +1,6 @@
 
-<img width="100%" alt="Portfolio banner" src="https://user-images.githubusercontent.com/81867375/235978710-a9476ad7-d15f-44e7-8c71-e94ead3b4f7c.png" align="left" style="margin-bottom: 16px">
-
+<img alt="Portfolio banner" src="https://user-images.githubusercontent.com/81867375/235978710-a9476ad7-d15f-44e7-8c71-e94ead3b4f7c.png">
+<br />
 <div align="center">
   <blockquote align="right">Open  For New Opportunities!</blockquote>
 </div>
@@ -20,9 +20,6 @@
 <p align="center">
   <h4 align="center">I am an enthusiast currently hacking on some of my projects.</h4>
 </p>
-
-</br>
-</br>
 
 ### ⚡Favorite Tech Stack
 
