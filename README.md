@@ -54,3 +54,10 @@
 - Enjoy playing tennis & chess.
 - My birthday is 01.02.2003. 
 - I am a Karate Champion (x3).
+- Enjoy writing docs for the things I built.
+
+### Upcoming PET Projects
+
+- Piano App
+- Attendance Check System Websitewith ML model 
+
