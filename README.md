@@ -47,3 +47,10 @@
   <img src="https://cdn3.iconfinder.com/data/icons/flags-of-countries-3/128/Korea-512.png" width="30px"/>  
   <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="30px"/>
 </div>
+
+### Fun Facts About Me
+
+- I can't swim and drink coffee.
+- Enjoy playing tennis & chess.
+- My birthday is 01.02.2003. 
+- I am a Karate Champion (x3).
