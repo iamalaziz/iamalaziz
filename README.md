@@ -48,16 +48,4 @@
   <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="30px"/>
 </div>
 
-### Fun Facts About Me
-
-- I can't swim and drink coffee.
-- Enjoy playing tennis & chess.
-- My birthday is 01.02.2003. 
-- I am a Karate Champion (x3).
-- Enjoy writing docs for the things I built.
-
-### Upcoming PET Projects
-
-- Piano App
-- Attendance Check System Websitewith ML model 
 
