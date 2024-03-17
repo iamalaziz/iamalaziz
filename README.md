@@ -18,14 +18,15 @@
     <a href="https://instagram.com/iamalaziz">Instagram</a>
 </p>
 <p align="center">
-  <h4 align="center">I am an enthusiast currently hacking on some of my projects.</h4>
+  <h4 align="center" style="max-width: 600;">I am Adam, a 22-year-old full stack developer <br /> from a small province in Uzbekistan, currently living in South Korea.</h4>
 </p>
 
 ### ⚡Favorite Tech Stack
 
 > Tools, languages, and other things that I like to work with.
 
-![My Skills](https://skillicons.dev/icons?i=react,js,ts,python,bootstrap,sass,tailwind,nextjs,nodejs,firebase,figma&theme=light)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,bootstrap,tailwind,sass,materialui,nodejs,express,firebase,mongodb,graphql,supabase,git,notion,figma,postman,vite" />
+
 
 ### Stats
 
@@ -39,13 +40,4 @@
 
 
 ### Portfolio - [Go to checkout](https://iamalaziz.vercel.app/)
-
-### Languages
-
-<div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/81867375/201831350-6c7c4138-9afd-44fe-be16-2a718c8b2106.png" width="30px"/>   
-  <img src="https://cdn3.iconfinder.com/data/icons/flags-of-countries-3/128/Korea-512.png" width="30px"/>  
-  <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="30px"/>
-</div>
-
 
