@@ -25,7 +25,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,bootstrap,tailwind,sass,materialui,nodejs,express,firebase,mongodb,graphql,supabase,git,notion,figma,postman,vite" />
+<img src="https://skillicons.dev/icons?i=nestjs,js,ts,react,nextjs,vuejs,redux,bootstrap,tailwind,sass,materialui,threejs,nodejs,express,mysql,aws,docker,firebase,mongodb,supabase,graphql,git,notion,figma,postman,vite" />
 
 
 ### Stats
