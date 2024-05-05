@@ -41,3 +41,4 @@
 
 ### Portfolio - [Go to checkout](https://iamalaziz.vercel.app/)
 
+![](https://komarev.com/ghpvc/?username=iamalaziz&color=blue)
