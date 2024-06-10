@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <h1 align="center">Frontend Web-Developer</h1>
+  <h1 align="center">Full Stack Web-Developer</h1>
 </p>
 <p align="center">
     <a href="https://iamalaziz.vercel.app/" target="_blank">Portfolio</a>
