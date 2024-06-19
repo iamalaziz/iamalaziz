@@ -1,3 +1,4 @@
+![js](https://github.com/iamalaziz/iamalaziz/assets/81867375/06d7df9e-164d-4baa-8753-7aabe1b61d13)
 
 <img alt="Portfolio banner" src="https://user-images.githubusercontent.com/81867375/235978710-a9476ad7-d15f-44e7-8c71-e94ead3b4f7c.png">
 <br />
@@ -18,7 +19,7 @@
     <a href="https://instagram.com/iamalaziz">Instagram</a>
 </p>
 <p align="center">
-  <h4 align="center" style="max-width: 600;">I am Adam, a 22-year-old full stack developer <br /> from a small province in Uzbekistan, currently living in South Korea.</h4>
+  <h4 align="center" style="max-width: 600;">I am Adam, a 276-year-old full stack developer <br /> from a small province in Uzbekistan, currently living in South Korea.</h4>
 </p>
 
 ### ⚡Favorite Tech Stack
