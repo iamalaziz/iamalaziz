@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://abdulazizmashrabov.vercel.app/" target="_blank">Website</a>
     ·
-    <a href="mailto:mashrabovabdulaziz2463@gmail.com">Email</a>
+    <a href="mailto:codexdev3@gmail.com">Email</a>
     ·
     <a href="https://linkedin.com/in/iamalaziz">LinkedIn</a>
 </p>
