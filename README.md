@@ -7,9 +7,9 @@
   <h1 align="center">Software Engineer</h1>
 </p>
 <p align="center">
-    <a href="https://abdulazizmashrabov.vercel.app/" target="_blank">Website</a>
+    <a href="https://abdulazizmashrab.com" target="_blank">Website</a>
     ·
-    <a href="mailto:codexdev3@gmail.com">Email</a>
+    <a href="mailto:abdulazizmashrab@gmail.com">Email</a>
     ·
     <a href="https://linkedin.com/in/iamalaziz">LinkedIn</a>
 </p>
